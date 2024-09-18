@@ -1,4 +1,4 @@
-# Nimit Uppal's Portfolio
+# My Portfolio
 
 This is an interactive and animation-based portfolio developed as part of my coursework at Chandigarh University. The portfolio showcases my skills, projects, and experience in CSE (AIML).
 
